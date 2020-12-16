@@ -1,0 +1,23 @@
+{
+    "columns": {
+        "Price name": "Тип цены",
+        "Price": "Цена",
+        "Currency": "Валюта",
+        "Group": "Группа",
+        "VAT": "НДС",
+        "VAT sign": "Подпись НДС"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Is active": "Активность",
+        "Price": "Цена",
+        "Profit rate": "Норма прибыли",
+        "Currency": "Валюта",
+        "Use group VAT": "Использовать НДС группы",
+        "VAT": "НДС",
+        "VAT sign": "Подпись НДС",
+        "Price exceptions": "Ценовые исключения"
+    }
+}

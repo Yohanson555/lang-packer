@@ -1,0 +1,39 @@
+{
+    "name": "Валюты",
+    "description": "",
+    "headers": {
+        "New currency": "Новая валюта",
+        "Edit currency": "Редактировать валюту: {{name}}",
+        "Copy currency": "Копировать валюту: {{name}}"
+    },
+    "columns": {
+        "Name": "Название",
+        "Code": "Код",
+        "HQ ID": "HQ ID",
+        "Eurozone": "Еврозона",
+        "Rate": "Коэффициент"
+    },
+    "sections": {
+        "General": "Основные",
+        "NotesAndCoins": "Купюры и монеты"
+    },
+    "fields": {
+        "Name": "Название",
+        "HQ ID": "HQ ID",
+        "Charcode": "Символьный код",
+        "Digital code": "Цифровой код",
+        "Round": "Округление",
+        "Round up/down to": "Округлять до",
+        "Eurozone": "Еврозона",
+        "Rate": "Коэффициент",
+        "Rate type": "Тип коэффициента",
+        "Symbol": "Символ",
+        "Symbol alignment": "Положение символа"
+    },
+    "options": {
+        "Yes": "Да",
+        "No": "Нет",
+        "Before number": "Перед числом",
+        "After number": "После числа"
+    }
+}

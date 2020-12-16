@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New screen group": "",
+        "Edit screen group": "",
+        "Copy screen group": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "Screen type": ""
+    }
+}

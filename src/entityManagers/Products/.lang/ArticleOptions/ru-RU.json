@@ -1,0 +1,18 @@
+{
+    "columns": {
+        "Number": "Номер",
+        "Option": "Опция",
+        "Compose": "Составной",
+        "Max quantity": "Макс. кол-во"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Number": "Номер",
+        "Max quantity": "Макс. кол-во",
+        "Compose": "Составной",
+        "Option": "Опция",
+        "Course": "Курс"
+    }
+}

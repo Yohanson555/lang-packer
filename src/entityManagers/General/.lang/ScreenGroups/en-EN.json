@@ -1,0 +1,20 @@
+{
+    "name": "Screen groups",
+    "description": "",
+    "headers": {
+        "New screen group": "New screen group",
+        "Edit screen group": "Edit screen group: {{name}}",
+        "Copy screen group": "Copy screen group: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "Name": "Name"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Name": "Name",
+        "Screen type": "Screen type"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "headers": {
+        "New sales range": "Новый диапазон",
+        "Edit sales range": "Редактировать диапазон: {{name}}",
+        "Copy sales range": "Копирова диапазон: {{name}}"
+    },
+    "columns": {
+        "From": "С",
+        "To": "По",
+        "Active": "Активность"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Is active": "Активность",
+        "From": "С",
+        "To": "По"
+    }
+}

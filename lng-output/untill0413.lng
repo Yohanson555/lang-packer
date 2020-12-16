@@ -1,0 +1,851 @@
+$LANGUAGE	Dutch (Netherlands)
+$FORMNAME	/applicationViews/.lang/Areas:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/General:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/KithchenWorkflows:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/Products:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/Tasks:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/Users:
+view_name	
+view_description	
+$FORMNAME	/entityManagers/Areas/.lang/Bars:
+name	
+description	
+$FORMNAME	/entityManagers/Areas/.lang/PreparationAreas:
+name	
+description	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:headers
+New exception	
+Edit exception	
+Copy exception	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:columns
+Period	
+Price	
+Active	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:sections
+General	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:fields
+Is active	
+Period	
+Price levels	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:
+name	
+description	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:headers
+New sales area	
+Edit sales area	
+Copy sales area	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:columns
+Name	
+Number	
+Price	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:sections
+General	
+Exceptions	
+Table range	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:groups
+Automatically add Service Charge	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:fields
+Name	
+HQ ID	
+Number	
+Price	
+Group VAT level	
+Bmanual	
+Close tables manualy	
+Auto-accept reservations	
+Open only reserved tables	
+No service charge	
+Service charge plan	
+Standart %	
+Only when covers more than	
+Exceptions	
+Table range	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:options
+Primary	
+Secondary	
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:headers
+New sales range	
+Edit sales range	
+Copy sales range	
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:columns
+From	
+To	
+Active	
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:sections
+General	
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:fields
+Is active	
+From	
+To	
+$FORMNAME	/entityManagers/General/.lang/Bookkeeping:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Computers:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Computers:headers
+New computer	
+Edit computer	
+Copy computer	
+$FORMNAME	/entityManagers/General/.lang/Computers:columns
+ID	
+Name	
+$FORMNAME	/entityManagers/General/.lang/Computers:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/Computers:fields
+Name	
+UID	
+$FORMNAME	/entityManagers/General/.lang/Currency:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Currency:headers
+New currency	
+Edit currency	
+Copy currency	
+$FORMNAME	/entityManagers/General/.lang/Currency:columns
+Name	
+Code	
+HQ ID	
+Eurozone	
+Rate	
+$FORMNAME	/entityManagers/General/.lang/Currency:sections
+General	
+NotesAndCoins	
+$FORMNAME	/entityManagers/General/.lang/Currency:fields
+Name	
+HQ ID	
+Charcode	
+Digital code	
+Round	
+Round up/down to	
+Eurozone	
+Rate	
+Rate type	
+Symbol	
+Symbol alignment	
+$FORMNAME	/entityManagers/General/.lang/Currency:options
+Yes	
+No	
+Before number	
+After number	
+$FORMNAME	/entityManagers/General/.lang/DiscountGroups:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:headers
+New discount reason	
+Edit discount reason	
+Copy discount reason	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:columns
+Name	
+Number	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:fields
+Number	
+Name	
+$FORMNAME	/entityManagers/General/.lang/Discounts:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Discounts:headers
+New discount	
+Edit discount	
+Copy discount	
+$FORMNAME	/entityManagers/General/.lang/Discounts:columns
+ID	
+HQ ID	
+Name	
+Discount value	
+$FORMNAME	/entityManagers/General/.lang/Discounts:sections
+General	
+Appearance	
+Constraints	
+Reason	
+$FORMNAME	/entityManagers/General/.lang/Discounts:fields
+Name	
+Order	
+HQ ID	
+Value Type	
+Discount value	
+Select discount type	
+Discount Type	
+Select exclude period	
+Font color	
+Background color	
+Applied To	
+Department	
+Course	
+Food group	
+Category	
+Discount Reason	
+Free reason type	
+Free reason text	
+$FORMNAME	/entityManagers/General/.lang/Discounts:options
+Percent	
+Fixed	
+All items	
+Selected items	
+Department	
+Course	
+Food group	
+Category	
+Fix text	
+Ask reason	
+$FORMNAME	/entityManagers/General/.lang/NotesAndCoins:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Payments:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Payments:headers
+New payment	
+Edit payment	
+Copy payment	
+$FORMNAME	/entityManagers/General/.lang/Payments:columns
+Name	
+Number	
+Kind	
+$FORMNAME	/entityManagers/General/.lang/Payments:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/Payments:fields
+Name	
+GUID	
+Number	
+Kind	
+Currency	
+Bookkeeping	
+$FORMNAME	/entityManagers/General/.lang/Periods:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Periods:headers
+New period	
+Edit period	
+Copy period	
+$FORMNAME	/entityManagers/General/.lang/Periods:columns
+ID	
+Name	
+$FORMNAME	/entityManagers/General/.lang/Periods:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/Periods:fields
+Name	
+Period values	
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:columns
+ID	
+Name	
+Type	
+From Day	
+From Date	
+From Time	
+To Day	
+To Date	
+To Time	
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:groups
+From	
+To	
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:fields
+Name	
+Period type	
+Day	
+Date	
+Time	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:headers
+New price level	
+Edit price level	
+Copy price level	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:columns
+Name	
+Number	
+HQ ID	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:fields
+Is active	
+Name	
+Number	
+HQ ID	
+$FORMNAME	/entityManagers/General/.lang/Printers:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Printers:headers
+New printer	
+Edit printer	
+Copy printer	
+$FORMNAME	/entityManagers/General/.lang/Printers:columns
+ID	
+Name	
+$FORMNAME	/entityManagers/General/.lang/Printers:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/Printers:fields
+Name	
+GUID	
+Error flag	
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:headers
+New restaurant computer	
+Edit restaurant computer	
+Copy restaurant computer	
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:columns
+Sequence	
+Sales Area	
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:sections
+Auto order	
+Restaurant	
+Errors	
+Interfaces	
+POS	
+Printing	
+Rear display	
+Table info	
+Tap to order	
+Users	
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:fields
+On certain table	
+On waiter direct sales table	
+Sales kind	
+Start table number	
+Direct table number	
+Direct sales area	
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:options
+By table and direct	
+Only by table	
+Only direct	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:headers
+New screen group	
+Edit screen group	
+Copy screen group	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:columns
+ID	
+Name	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:sections
+General	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:fields
+Name	
+Screen type	
+$FORMNAME	/entityManagers/General/.lang/Tickets:
+name	
+description	
+$FORMNAME	/entityManagers/General/.lang/Tickets:headers
+New tickets	
+Edit tickets	
+Copy tickets	
+$FORMNAME	/entityManagers/General/.lang/Tickets:columns
+Name	
+$FORMNAME	/entityManagers/General/.lang/Tickets:sections
+General	
+Layout	
+$FORMNAME	/entityManagers/General/.lang/Tickets:fields
+Name	
+Width	
+Is report	
+Hide in reports	
+A4 print	
+Select ticket layout	
+$FORMNAME	/entityManagers/KitchenWorkflows/.lang/WorkflowStages:
+name	
+description	
+$FORMNAME	/entityManagers/KitchenWorkflows/.lang/WorkflowTemplates:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:columns
+Sequence	
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:fields
+Sequence	
+Sales Area	
+Limited	
+Period	
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:columns
+ID	
+Screen type	
+Screen group	
+BG color	
+Text color	
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:fields
+Screen group	
+Color	
+Font color	
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:columns
+Number	
+Option	
+Compose	
+Max quantity	
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:fields
+Number	
+Max quantity	
+Compose	
+Option	
+Course	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:columns
+Period	
+Price	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:fields
+Period	
+Price	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:columns
+Price name	
+Price	
+Currency	
+Group	
+VAT	
+VAT sign	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:fields
+Is active	
+Price	
+Profit rate	
+Currency	
+Use group VAT	
+VAT	
+VAT sign	
+Price exceptions	
+$FORMNAME	/entityManagers/Products/.lang/Articles:
+name	
+menu_articles_name	
+promo_articles_name	
+description	
+menu_articles_description	
+promo_articles_descr	
+$FORMNAME	/entityManagers/Products/.lang/Articles:headers
+New article	
+Edit article	
+Copy article	
+$FORMNAME	/entityManagers/Products/.lang/Articles:columns
+ID	
+Name	
+HQ ID	
+Sales Areas	
+$FORMNAME	/entityManagers/Products/.lang/Articles:sections
+General	
+Pricing	
+Options	
+Menu groups	
+Routing	
+Appearance	
+Control	
+Daily Stock	
+Bonus Properties	
+Rent	
+Rent Periods	
+$FORMNAME	/entityManagers/Products/.lang/Articles:fields
+Name	
+HQ ID	
+Number	
+Purchase price Ex VAT	
+Manual article	
+Main price	
+Prices	
+Upsellers	
+Free option	
+Must have options	
+Department	
+Course	
+Sales Area	
+Text	
+Font	
+Font color	
+Background color	
+Appearance	
+Hash	
+Weight required	
+Internal name	
+$FORMNAME	/entityManagers/Products/.lang/Articles:options
+Sale	
+Purchase	
+$FORMNAME	/entityManagers/Products/.lang/BonusGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/Categories:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/Categories:headers
+New category	
+Edit category	
+Copy category	
+$FORMNAME	/entityManagers/Products/.lang/Categories:columns
+Name	
+Location	
+ID	
+HQ ID	
+$FORMNAME	/entityManagers/Products/.lang/Categories:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/Categories:fields
+Name	
+HQ ID	
+$FORMNAME	/entityManagers/Products/.lang/Courses:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/Courses:headers
+New course	
+Edit course	
+Copy course	
+$FORMNAME	/entityManagers/Products/.lang/Courses:columns
+Name	
+Number	
+Changeable	
+Separate	
+Print on hold	
+$FORMNAME	/entityManagers/Products/.lang/Courses:sections
+General	
+Kitchen Screen	
+$FORMNAME	/entityManagers/Products/.lang/Courses:fields
+Name	
+HQ ID	
+Course number	
+Changeable	
+Ask to change course	
+Separate	
+Print on hold	
+Used color	
+Slow color	
+Second slow color	
+Time frame	
+Auto fire	
+Start countdown	
+After	
+Print when send to Pickup	
+Pick up ticket	
+Pick up printer	
+Print when deliver	
+$FORMNAME	/entityManagers/Products/.lang/Courses:options
+Order/Next course	
+Manual	
+Predefined	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:columns
+Article	
+Sequence	
+RM-Sequence	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:fields
+Article	
+Sequence	
+RM-Sequence	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:columns
+Sequence	
+Sales Area	
+Is active	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:fields
+Is active	
+Sequence	
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/Departments:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/Departments:headers
+New department	
+Edit department	
+Copy department	
+$FORMNAME	/entityManagers/Products/.lang/Departments:columns
+Name	
+Number	
+HQ ID	
+Food group	
+Type	
+$FORMNAME	/entityManagers/Products/.lang/Departments:sections
+General	
+Appearance	
+Pricing	
+Special articles	
+Routing	
+$FORMNAME	/entityManagers/Products/.lang/Departments:fields
+Number	
+Name	
+HQ ID	
+Text	
+Group	
+Supplement	
+Max supplements	
+Condiment	
+Max condiments	
+Available	
+Font	
+Font size	
+Font color	
+Background color	
+Appearance	
+Special articles	
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:columns
+ID	
+Screen type	
+Screen group	
+BG color	
+Text color	
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:fields
+Screen group	
+Color	
+Font color	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:headers
+New food group	
+Edit food group	
+Copy food group	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:columns
+ID	
+Name	
+Number	
+HQ ID	
+Category	
+VAT	
+Secondary VAT	
+Type	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:sections
+General	
+VATs	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:fields
+Name	
+HQ ID	
+Number	
+Category	
+Group type	
+Group VAT	
+Group VAT Sign	
+(3 symbols)	
+Secondary Group VAT	
+Secondary Group VAT Sign	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:options
+Normal group	
+Voucher/Coupon group	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:columns
+Article	
+Print	
+Manual	
+Number	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:fields
+Number	
+Article	
+Print	
+Manual price	
+Show in kitchen screen	
+Prices	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:columns
+Price	
+Value	
+Currency	
+VAT	
+VAT sign	
+Group VAT	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:fields
+Is active	
+Price	
+Currency	
+Select currency	
+Use group VAT	
+VAT	
+VAT sign	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticleSpecPrice:columns
+ID	
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/OptionArticleSpecPrice:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/Options:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/Options:headers
+New option	
+Edit option	
+Copy option	
+$FORMNAME	/entityManagers/Products/.lang/Options:columns
+Name	
+Number	
+HQ ID	
+Single prep.	
+Type	
+$FORMNAME	/entityManagers/Products/.lang/Options:sections
+General	
+Articles	
+	
+$FORMNAME	/entityManagers/Products/.lang/Options:fields
+Name	
+Number	
+Single preparation	
+HQ ID	
+Available	
+Articles	
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:columns
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:fields
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/PrepaidArticleGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/RentalGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/RentPeriods:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:headers
+New upseller	
+Edit upseller	
+Copy upseller	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:columns
+Name	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:fields
+Name	
+HQ ID	
+Articles	
+Available	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:columns
+Number	
+Article	
+Name	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:fields
+Number	
+Article	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:columns
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:fields
+Sales Area	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:
+name	
+description	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:headers
+New void reason	
+Edit void reason	
+Copy void reason	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:columns
+Name	
+Number	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:sections
+General	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:fields
+Name	
+Number	
+Don't return items on stock	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:
+name	
+description	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:headers
+New user groups	
+Edit user groups	
+Copy user groups	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:columns
+ID	
+Name	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:sections
+General	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:fields
+Name	
+Description	
+$FORMNAME	/entityManagers/Users/.lang/Users:
+name	
+description	
+$FORMNAME	/entityManagers/Users/.lang/Users:headers
+New user	
+Edit user	
+Copy user	
+$FORMNAME	/entityManagers/Users/.lang/Users:columns
+Name	
+User group	
+Email	
+First name	
+Last name	
+Birthdate	
+Start week time	
+$FORMNAME	/entityManagers/Users/.lang/Users:sections
+General	
+Identification	
+Personal	
+Positions/Reports	
+Order	
+Close	
+Tables	
+Beverage Control	
+$FORMNAME	/entityManagers/Users/.lang/Users:fields
+Number	
+Username	
+HQ ID	
+First name	
+Last name	
+User group	
+Hand	
+Language	
+Log in action	
+Void	
+Number of voids	
+Unlimited voids	
+Transfer	
+Clock In	
+Cash declaration	
+Exclude from message list	
+Block time break	
+Tables	
+Tagreader code	
+Operator ID	
+BO password	
+POS password	
+User separate POS password for remote terminal	
+Password for RT	
+TP-API password	
+Address	
+Country	
+Phone	
+Email	
+Date of birth	
+Start week time	
+Insurance	
+Include table areas	
+Don't allow clock out if there are opened tables	
+Don't allow print waiter report if there are opened tables	
+Don't show waiter in waiter orders dataset	
+Taker away role	
+Direct sales table number	
+$FORMNAME	/entityManagers/Users/.lang/Users:options
+Right	
+Left	
+All	
+Own	
+Regular user	
+Delivery user	
+none	
+Show General Manager	
+Take away bookings	

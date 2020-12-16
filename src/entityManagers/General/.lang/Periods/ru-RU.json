@@ -1,0 +1,20 @@
+{
+    "name": "Периоды",
+    "description": "",
+    "headers": {
+        "New period": "Новый период",
+        "Edit period": "Редактировать период: {{name}}",
+        "Copy period": "Копировать период: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "Name": "Название"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Name": "Название",
+        "Period values": "Значения периодов"
+    }
+}

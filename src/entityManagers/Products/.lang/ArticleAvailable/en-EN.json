@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Sequence": "Sequence",
+        "Sales Area": "Sales Area"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Sequence": "Sequence",
+        "Sales Area": "Sales Area",
+        "Limited": "Limited",
+        "Period": "Period"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Чеки",
+    "description": "",
+    "headers": {
+        "New tickets": "Новый чек",
+        "Edit tickets": "Редактировать чек: {{name}}",
+        "Copy tickets": "Копировать чек: {{name}}"
+    },
+    "columns": {
+        "Name": "Название"
+    },
+    "sections": {
+        "General": "Основные",
+        "Layout": "Макет"
+    },
+    "fields": {
+        "Name": "Название",
+        "Width": "Ширина",
+        "Is report": "Является отчетом",
+        "Hide in reports": "Скрывать в отчетах",
+        "A4 print": "A4 печать",
+        "Select ticket layout": "Выберите макет чека"
+    }
+}

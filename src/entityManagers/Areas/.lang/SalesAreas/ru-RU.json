@@ -1,0 +1,43 @@
+{
+    "name": "Зоны продаж",
+    "description": "",
+    "headers": {
+        "New sales area": "Новая зона продаж",
+        "Edit sales area": "Редактировать зону продаж: {{name}}",
+        "Copy sales area": "Копировать зоны продаж: {{name}}"
+    },
+    "columns": {
+        "Name": "Название",
+        "Number": "Номер",
+        "Price": "Цена"
+    },
+    "sections": {
+        "General": "Основные",
+        "Exceptions": "Исключения",
+        "Table range": "Диапазоны столиков"
+    },
+    "groups": {
+        "Automatically add Service Charge": "Автоматически добавлять плату за обслуживание"
+    },
+    "fields": {
+        "Name": "Название",
+        "HQ ID": "HQ ID",
+        "Number": "Номер",
+        "Price": "Цена",
+        "Group VAT level": "Уровень группового НДС",
+        "Bmanual": "Ручной режим",
+        "Close tables manualy": "Закрывать столик вручную",
+        "Auto-accept reservations": "Авто-принятие бронирований",
+        "Open only reserved tables": "Открывать только зарезервированные столы",
+        "No service charge": "Без платы за обслуживание",
+        "Service charge plan": "План платы за обслуживание",
+        "Standart %": "Стандартный %",
+        "Only when covers more than": "Только когда покрывает более",
+        "Exceptions": "Исключения",
+        "Table range": "Диапазоны столиков"
+    },
+    "options": {
+        "Primary": "Основной",
+        "Secondary": "Дополнительный"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "columns": {
+        "ID": "ID",
+        "Name": "Name",
+        "Type": "Type",
+        "From Day": "From Day",
+        "From Date": "From Date",
+        "From Time": "From Time",
+        "To Day": "To Day",
+        "To Date": "To Date",
+        "To Time": "To Time"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "groups": {
+        "From": "From",
+        "To": "To"
+    },
+    "fields": {
+        "Name": "Name",
+        "Period type": "Period type",
+        "Day": "Day",
+        "Date": "Date",
+        "Time": "Time"
+    }
+}

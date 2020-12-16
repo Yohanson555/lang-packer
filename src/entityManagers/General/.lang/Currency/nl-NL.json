@@ -1,0 +1,39 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New currency": "",
+        "Edit currency": "",
+        "Copy currency": ""
+    },
+    "columns": {
+        "Name": "",
+        "Code": "",
+        "HQ ID": "",
+        "Eurozone": "",
+        "Rate": ""
+    },
+    "sections": {
+        "General": "",
+        "NotesAndCoins": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Charcode": "",
+        "Digital code": "",
+        "Round": "",
+        "Round up/down to": "",
+        "Eurozone": "",
+        "Rate": "",
+        "Rate type": "",
+        "Symbol": "",
+        "Symbol alignment": ""
+    },
+    "options": {
+        "Yes": "",
+        "No": "",
+        "Before number": "",
+        "After number": ""
+    }
+}

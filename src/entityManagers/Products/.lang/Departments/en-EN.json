@@ -1,0 +1,41 @@
+{
+    "name": "Departments",
+    "description": "",
+    "headers": {
+        "New department": "New department",
+        "Edit department": "Edit department: {{name}}",
+        "Copy department": "Copy department: {{name}}"
+    },
+    "columns": {
+        "Name": "Name",
+        "Number": "Number",
+        "HQ ID": "HQ ID",
+        "Food group": "Food group",
+        "Type": "Type"
+    },
+    "sections": {
+        "General": "General",
+        "Appearance": "Appearance",
+        "Pricing": "Pricing",
+        "Special articles": "Special articles",
+        "Routing": "Routing"
+    },
+    "fields": {
+        "Number": "Number",
+        "Name": "Name",
+        "HQ ID": "HQ ID",
+        "Text": "Text",
+        "Group": "Group",
+        "Supplement": "Supplement",
+        "Max supplements": "Max. supplements",
+        "Condiment": "Condiment",
+        "Max condiments": "Max. condiments",
+        "Available": "Available",
+        "Font": "Font",
+        "Font size": "Font size",
+        "Font color": "Font color",
+        "Background color": "Background color",
+        "Appearance": "Appearance",
+        "Special articles": "Special articles"
+    }
+}

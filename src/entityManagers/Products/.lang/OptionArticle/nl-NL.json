@@ -1,0 +1,19 @@
+{
+    "columns": {
+        "Article": "",
+        "Print": "",
+        "Manual": "",
+        "Number": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Number": "",
+        "Article": "",
+        "Print": "",
+        "Manual price": "",
+        "Show in kitchen screen": "",
+        "Prices": ""
+    }
+}

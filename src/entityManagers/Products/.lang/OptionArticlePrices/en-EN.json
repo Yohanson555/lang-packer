@@ -1,0 +1,22 @@
+{
+    "columns": {
+        "Price": "Price",
+        "Value": "Value",
+        "Currency": "Currency",
+        "VAT": "VAT",
+        "VAT sign": "VAT sign",
+        "Group VAT": "Group VAT"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Is active": "Is active",
+        "Price": "Price",
+        "Currency": "Currency",
+        "Select currency": "Select currency",
+        "Use group VAT": "Use group VAT",
+        "VAT": "VAT",
+        "VAT sign": "VAT sign"
+    }
+}

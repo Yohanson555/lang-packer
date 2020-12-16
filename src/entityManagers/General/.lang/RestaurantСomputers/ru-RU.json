@@ -1,0 +1,36 @@
+{
+    "headers": {
+        "New restaurant computer": "New restaurant computer",
+        "Edit restaurant computer": "Edit restaurant computer: {{name}}",
+        "Copy restaurant computer": "Copy restaurant computer: {{name}}"
+    },
+    "columns": {
+        "Sequence": "Порядок",
+        "Sales Area": "Зона продаж"
+    },
+    "sections": {
+        "Auto order": "Авто-заказ",
+        "Restaurant": "Ресторан",
+        "Errors": "Ошибки",
+        "Interfaces": "Интерфейсы",
+        "POS": "POS",
+        "Printing": "Печать",
+        "Rear display": "Экран клиента",
+        "Table info": "Информация о столике",
+        "Tap to order": "Быстрый заказ",
+        "Users": "Пользователи"
+    },
+    "fields": {
+        "On certain table": "На определенном столе",
+        "On waiter direct sales table": "На столике прямых продаж официанта",
+        "Sales kind": "Вид продаж",
+        "Start table number": "Начальный номер столика",
+        "Direct table number": "Номер столика прямых продаж",
+        "Direct sales area": "Зона прямых продаж"
+    },
+    "options": {
+        "By table and direct": "Со столика и прямые продажи",
+        "Only by table": "Только со столика",
+        "Only direct": "Только прямые продажи"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Article": "Article",
+        "Sequence": "Sequence",
+        "RM-Sequence": "RM-Sequence"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Article": "Article",
+        "Sequence": "Sequence",
+        "RM-Sequence": "RM-Sequence"
+    }
+}

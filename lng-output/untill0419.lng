@@ -1,0 +1,850 @@
+$LANGUAGE	Russian
+$FORMNAME	/applicationViews/.lang/Areas:
+view_name	Зоны
+view_description	Описание раздела зон
+$FORMNAME	/applicationViews/.lang/General:
+view_name	Общее
+view_description	Общие настройки
+$FORMNAME	/applicationViews/.lang/KithchenWorkflows:
+view_name	Кухонные процессы
+view_description	Описание раздела
+$FORMNAME	/applicationViews/.lang/Products:
+view_name	Продукты
+view_description	Описание раздела продуктов
+$FORMNAME	/applicationViews/.lang/Tasks:
+view_name	Tasks overview
+view_description	Tasks overview description
+$FORMNAME	/applicationViews/.lang/Users:
+view_name	Пользователи
+view_description	Описание раздела
+$FORMNAME	/entityManagers/Areas/.lang/Bars:
+name	Бар
+description	
+$FORMNAME	/entityManagers/Areas/.lang/PreparationAreas:
+name	Зоны подготовки
+description	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:headers
+New exception	Новое исключение
+Edit exception	Редактирование исключения: {{name}}
+Copy exception	Копировать исключение: {{name}}
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:columns
+Period	Период
+Price	Цена
+Active	Активность
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:sections
+General	Основные
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreaExceptions:fields
+Is active	Активность
+Period	Период
+Price levels	Тип цены
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:
+name	Зоны продаж
+description	
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:headers
+New sales area	Новая зона продаж
+Edit sales area	Редактировать зону продаж: {{name}}
+Copy sales area	Копировать зоны продаж: {{name}}
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:columns
+Name	Название
+Number	Номер
+Price	Цена
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:sections
+General	Основные
+Exceptions	Исключения
+Table range	Диапазоны столиков
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:groups
+Automatically add Service Charge	Автоматически добавлять плату за обслуживание
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:fields
+Name	Название
+HQ ID	HQ ID
+Number	Номер
+Price	Цена
+Group VAT level	Уровень группового НДС
+Bmanual	Ручной режим
+Close tables manualy	Закрывать столик вручную
+Auto-accept reservations	Авто-принятие бронирований
+Open only reserved tables	Открывать только зарезервированные столы
+No service charge	Без платы за обслуживание
+Service charge plan	План платы за обслуживание
+Standart %	Стандартный %
+Only when covers more than	Только когда покрывает более
+Exceptions	Исключения
+Table range	Диапазоны столиков
+$FORMNAME	/entityManagers/Areas/.lang/SalesAreas:options
+Primary	Основной
+Secondary	Дополнительный
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:headers
+New sales range	Новый диапазон
+Edit sales range	Редактировать диапазон: {{name}}
+Copy sales range	Копирова диапазон: {{name}}
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:columns
+From	С
+To	По
+Active	Активность
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:sections
+General	Основные
+$FORMNAME	/entityManagers/Areas/.lang/SalesRange:fields
+Is active	Активность
+From	С
+To	По
+$FORMNAME	/entityManagers/General/.lang/Bookkeeping:
+name	Бухучёт
+description	
+$FORMNAME	/entityManagers/General/.lang/Computers:
+name	Устройства
+description	
+$FORMNAME	/entityManagers/General/.lang/Computers:headers
+New computer	Новое устройство
+Edit computer	Редактировать устройство: {{name}}
+Copy computer	Копировать устройство: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Computers:columns
+ID	ID
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/Computers:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/Computers:fields
+Name	Название
+UID	UID
+$FORMNAME	/entityManagers/General/.lang/Currency:
+name	Валюты
+description	
+$FORMNAME	/entityManagers/General/.lang/Currency:headers
+New currency	Новая валюта
+Edit currency	Редактировать валюту: {{name}}
+Copy currency	Копировать валюту: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Currency:columns
+Name	Название
+Code	Код
+HQ ID	HQ ID
+Eurozone	Еврозона
+Rate	Коэффициент
+$FORMNAME	/entityManagers/General/.lang/Currency:sections
+General	Основные
+NotesAndCoins	Купюры и монеты
+$FORMNAME	/entityManagers/General/.lang/Currency:fields
+Name	Название
+HQ ID	HQ ID
+Charcode	Символьный код
+Digital code	Цифровой код
+Round	Округление
+Round up/down to	Округлять до
+Eurozone	Еврозона
+Rate	Коэффициент
+Rate type	Тип коэффициента
+Symbol	Символ
+Symbol alignment	Положение символа
+$FORMNAME	/entityManagers/General/.lang/Currency:options
+Yes	Да
+No	Нет
+Before number	Перед числом
+After number	После числа
+$FORMNAME	/entityManagers/General/.lang/DiscountGroups:
+name	Группы скидок
+description	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:
+name	Основания скидок
+description	
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:headers
+New discount reason	Новое основание
+Edit discount reason	Редактироовать основание: {{name}}
+Copy discount reason	Копировать основание: {{name}}
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:columns
+Name	Название
+Number	Номер
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/DiscountReasons:fields
+Number	Номер
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/Discounts:
+name	Скидки
+description	
+$FORMNAME	/entityManagers/General/.lang/Discounts:headers
+New discount	Новая скидка
+Edit discount	Редактировать скидку: {{name}}
+Copy discount	Копировать скидку: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Discounts:columns
+ID	ID
+HQ ID	HQ ID
+Name	Название
+Discount value	Значение скидки
+$FORMNAME	/entityManagers/General/.lang/Discounts:sections
+General	Основные
+Appearance	Вид
+Constraints	Условия
+Reason	Основание
+$FORMNAME	/entityManagers/General/.lang/Discounts:fields
+Name	Название
+Order	Порядок
+HQ ID	HQ ID
+Value Type	Тип значения
+Discount value	Значение скидки
+Select discount type	Выберите тип скидки
+Discount Type	Тип скидки
+Select exclude period	Выберите период исключения
+Font color	Цвет текста
+Background color	Цвет фона
+Applied To	Применяется к
+Department	Департаменту
+Course	Курсу
+Food group	Продуктовой группе
+Category	Категории
+Discount Reason	Основание скидки
+Free reason type	Тип свободного основания
+Free reason text	Текст свободного основания
+$FORMNAME	/entityManagers/General/.lang/Discounts:options
+Percent	Процентное
+Fixed	Фиксированное
+All items	Все позиции
+Selected items	Выбранные позиции
+Department	Раздел
+Course	Курс
+Food group	Продуктовые группы
+Category	Категория
+Fix text	Фиксированный текст
+Ask reason	Запросить причину
+$FORMNAME	/entityManagers/General/.lang/NotesAndCoins:
+name	Купюры и монеты
+description	
+$FORMNAME	/entityManagers/General/.lang/Payments:
+name	Платежи
+description	
+$FORMNAME	/entityManagers/General/.lang/Payments:headers
+New payment	Новый платеж
+Edit payment	Редактировать платеж: {{name}}
+Copy payment	Копировать платеж: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Payments:columns
+Name	Название
+Number	Номер
+Kind	Тип
+$FORMNAME	/entityManagers/General/.lang/Payments:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/Payments:fields
+Name	Название
+GUID	GUID
+Number	Номер
+Kind	Тип
+Currency	Валюта
+Bookkeeping	Бухучёт
+$FORMNAME	/entityManagers/General/.lang/Periods:
+name	Периоды
+description	
+$FORMNAME	/entityManagers/General/.lang/Periods:headers
+New period	Новый период
+Edit period	Редактировать период: {{name}}
+Copy period	Копировать период: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Periods:columns
+ID	ID
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/Periods:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/Periods:fields
+Name	Название
+Period values	Значения периодов
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:columns
+ID	ID
+Name	Название
+Type	Тип
+From Day	День (начало)
+From Date	Дата (начало)
+From Time	Время (начало)
+To Day	День (конец)
+To Date	Дата (конец)
+To Time	Время (конец)
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:groups
+From	С
+To	По
+$FORMNAME	/entityManagers/General/.lang/PeriodsValues:fields
+Name	Название
+Period type	Тип значения
+Day	День
+Date	Дата
+Time	Время
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:
+name	Типы цен
+description	
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:headers
+New price level	Новый тип
+Edit price level	Редактировать тип: {{name}}
+Copy price level	Копировать тип: {{name}}
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:columns
+Name	Название
+Number	Номер
+HQ ID	HQ ID
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/PriceLevels:fields
+Is active	Активность
+Name	Название
+Number	Номер
+HQ ID	HQ ID
+$FORMNAME	/entityManagers/General/.lang/Printers:
+name	Принтеры
+description	
+$FORMNAME	/entityManagers/General/.lang/Printers:headers
+New printer	Новый принтер
+Edit printer	Редактировать принтер: {{name}}
+Copy printer	Копировать принтер: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Printers:columns
+ID	ID
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/Printers:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/Printers:fields
+Name	Название
+GUID	GUID
+Error flag	Флаг ошибки
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:headers
+New restaurant computer	New restaurant computer
+Edit restaurant computer	Edit restaurant computer: {{name}}
+Copy restaurant computer	Copy restaurant computer: {{name}}
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:columns
+Sequence	Порядок
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:sections
+Auto order	Авто-заказ
+Restaurant	Ресторан
+Errors	Ошибки
+Interfaces	Интерфейсы
+POS	POS
+Printing	Печать
+Rear display	Экран клиента
+Table info	Информация о столике
+Tap to order	Быстрый заказ
+Users	Пользователи
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:fields
+On certain table	На определенном столе
+On waiter direct sales table	На столике прямых продаж официанта
+Sales kind	Вид продаж
+Start table number	Начальный номер столика
+Direct table number	Номер столика прямых продаж
+Direct sales area	Зона прямых продаж
+$FORMNAME	/entityManagers/General/.lang/RestaurantСomputers:options
+By table and direct	Со столика и прямые продажи
+Only by table	Только со столика
+Only direct	Только прямые продажи
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:
+name	Группы экранов
+description	
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:headers
+New screen group	Новая группа
+Edit screen group	Редактировать группу: {{name}}
+Copy screen group	Копировать группу: {{name}}
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:columns
+ID	ID
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:sections
+General	Основные
+$FORMNAME	/entityManagers/General/.lang/ScreenGroups:fields
+Name	Название
+Screen type	Тип экрана
+$FORMNAME	/entityManagers/General/.lang/Tickets:
+name	Чеки
+description	
+$FORMNAME	/entityManagers/General/.lang/Tickets:headers
+New tickets	Новый чек
+Edit tickets	Редактировать чек: {{name}}
+Copy tickets	Копировать чек: {{name}}
+$FORMNAME	/entityManagers/General/.lang/Tickets:columns
+Name	Название
+$FORMNAME	/entityManagers/General/.lang/Tickets:sections
+General	Основные
+Layout	Макет
+$FORMNAME	/entityManagers/General/.lang/Tickets:fields
+Name	Название
+Width	Ширина
+Is report	Является отчетом
+Hide in reports	Скрывать в отчетах
+A4 print	A4 печать
+Select ticket layout	Выберите макет чека
+$FORMNAME	/entityManagers/KitchenWorkflows/.lang/WorkflowStages:
+name	Этапы рабочего процесса
+description	
+$FORMNAME	/entityManagers/KitchenWorkflows/.lang/WorkflowTemplates:
+name	Шаблоны рабочего процесса
+description	
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:columns
+Sequence	Порядок
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/ArticleAvailable:fields
+Sequence	Порядок
+Sales Area	Зона продаж
+Limited	Ограничен
+Period	Период
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:columns
+ID	ID
+Screen type	Тип экрана
+Screen group	Группа экранов
+BG color	Цвет фона
+Text color	Цвет текста
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/ArticleButtonSetting:fields
+Screen group	Группа экранов
+Color	Цвет
+Font color	Цвет текста
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:columns
+Number	Номер
+Option	Опция
+Compose	Составной
+Max quantity	Макс. кол-во
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/ArticleOptions:fields
+Number	Номер
+Max quantity	Макс. кол-во
+Compose	Составной
+Option	Опция
+Course	Курс
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:columns
+Period	Период
+Price	Цена
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/ArticlePricePeriods:fields
+Period	Период
+Price	Цена
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:columns
+Price name	Тип цены
+Price	Цена
+Currency	Валюта
+Group	Группа
+VAT	НДС
+VAT sign	Подпись НДС
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/ArticlePrices:fields
+Is active	Активность
+Price	Цена
+Profit rate	Норма прибыли
+Currency	Валюта
+Use group VAT	Использовать НДС группы
+VAT	НДС
+VAT sign	Подпись НДС
+Price exceptions	Ценовые исключения
+$FORMNAME	/entityManagers/Products/.lang/Articles:
+name	Позиции
+menu_articles_name	Меню
+promo_articles_name	Промо
+description	
+menu_articles_description	
+promo_articles_descr	
+$FORMNAME	/entityManagers/Products/.lang/Articles:headers
+New article	Новая позиция
+Edit article	Редактировать позицию: {{name}}
+Copy article	Копировать позицию: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/Articles:columns
+ID	ID
+Name	Название
+HQ ID	HQ ID
+Sales Areas	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/Articles:sections
+General	Основные
+Pricing	Цены
+Options	Опции
+Menu groups	Группы меню
+Routing	Распределение
+Appearance	Вид
+Control	Управление
+Daily Stock	Ежедневный запас
+Bonus Properties	Бонусные свойства
+Rent	Рента
+Rent Periods	Периоды ренты
+$FORMNAME	/entityManagers/Products/.lang/Articles:fields
+Name	Название
+HQ ID	HQ ID
+Number	Номер
+Purchase price Ex VAT	Закупочная цена б/НДС
+Manual article	Своя цена
+Main price	Основная цена
+Prices	Цены
+Upsellers	Предложения
+Free option	Свободная опция
+Must have options	Обязательные опции
+Department	Раздел
+Course	Курс
+Sales Area	Зона продаж
+Text	Текст
+Font	Шрифт
+Font color	Цвет шрифта
+Background color	Цвет фона
+Appearance	Вид
+Hash	Хеш
+Weight required	Требуемый вес
+Internal name	Внутреннее имя
+$FORMNAME	/entityManagers/Products/.lang/Articles:options
+Sale	Продажа
+Purchase	Покупка
+$FORMNAME	/entityManagers/Products/.lang/BonusGroups:
+name	Бонусные группы
+description	
+$FORMNAME	/entityManagers/Products/.lang/Categories:
+name	Категории
+description	
+$FORMNAME	/entityManagers/Products/.lang/Categories:headers
+New category	Новая категория
+Edit category	Редактировать категорию: {{name}}
+Copy category	Копировать категорию: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/Categories:columns
+Name	Название
+Location	Локация
+ID	ID
+HQ ID	HQ ID
+$FORMNAME	/entityManagers/Products/.lang/Categories:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/Categories:fields
+Name	Название
+HQ ID	HQ ID
+$FORMNAME	/entityManagers/Products/.lang/Courses:
+name	Курсы
+description	
+$FORMNAME	/entityManagers/Products/.lang/Courses:headers
+New course	Новый курс
+Edit course	Редактировать курс: {{name}}
+Copy course	Копировать курс: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/Courses:columns
+Name	Название
+Number	Номер
+Changeable	Изменяемый
+Separate	Раздельный
+Print on hold	Без печати
+$FORMNAME	/entityManagers/Products/.lang/Courses:sections
+General	Основные
+Kitchen Screen	Кухонный экран
+$FORMNAME	/entityManagers/Products/.lang/Courses:fields
+Name	Название
+HQ ID	HQ ID
+Course number	Номер курса
+Changeable	Изменяемый
+Ask to change course	Спросить перед сменой курса
+Separate	Раздельный
+Print on hold	Без печати
+Used color	Цвет "использовано"
+Slow color	Цвет "медлено"
+Second slow color	Цвет "очень медлено"
+Time frame	Временное ограничение
+Auto fire	Авто активация
+Start countdown	Начинать отсчет
+After	После
+Print when send to Pickup	Распечатать при отправке в самовывоз
+Pick up ticket	Чек самовывоза
+Pick up printer	Принтер самовывоза
+Print when deliver	Печатать по доставке
+$FORMNAME	/entityManagers/Products/.lang/Courses:options
+Order/Next course	Заказать / Следующий курс
+Manual	Ручной
+Predefined	Предустановленный
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:columns
+Article	Позиции раздела
+Sequence	порядок
+RM-Sequence	RM-порядок
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/DepartmentArticles:fields
+Article	Позиции раздела
+Sequence	порядок
+RM-Sequence	RM-порядок
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:columns
+Sequence	Порядок
+Sales Area	Зона продаж
+Is active	Активность
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/DepartmentAvailable:fields
+Is active	Активность
+Sequence	Порядок
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/Departments:
+name	Разделы
+description	
+$FORMNAME	/entityManagers/Products/.lang/Departments:headers
+New department	Новый раздел
+Edit department	Редактировать раздел: {{name}}
+Copy department	Копировать раздел: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/Departments:columns
+Name	Название
+Number	Номер
+HQ ID	HQ ID
+Food group	Продуктовая группа
+Type	Тип
+$FORMNAME	/entityManagers/Products/.lang/Departments:sections
+General	Основные
+Appearance	Вид
+Pricing	Цены
+Special articles	Специальные позиции
+Routing	Распределение
+$FORMNAME	/entityManagers/Products/.lang/Departments:fields
+Number	Номер
+Name	Название
+HQ ID	HQ ID
+Text	Текст
+Group	Группа
+Supplement	Дополнение
+Max supplements	Макс. дополнений
+Condiment	Приправа
+Max condiments	Макс. приправ
+Available	Доступность
+Font	Шрифт
+Font size	Размер шрифта
+Font color	Цвет шрифта
+Background color	Цвет фона
+Appearance	Вид
+Special articles	Специальные позиции
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:columns
+ID	ID
+Screen type	Тип экрана
+Screen group	Группа экранов
+BG color	Цвет фона
+Text color	Цвет текста
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:sections
+General	Основыне
+$FORMNAME	/entityManagers/Products/.lang/DepButtonSetting:fields
+Screen group	Группа экранов
+Color	Цвет фона
+Font color	Цвет текста
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:
+name	Продуктовые группы
+description	
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:headers
+New food group	Новая группа
+Edit food group	Редактировать группу: {{name}}
+Copy food group	Копировать группу: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:columns
+ID	ID
+Name	Название
+Number	Номер
+HQ ID	HQ ID
+Category	Категория
+VAT	НДС
+Secondary VAT	доп. НДС
+Type	Тип
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:sections
+General	Основные
+VATs	Налоги
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:fields
+Name	Название
+HQ ID	HQ ID
+Number	Номер
+Category	Категория
+Group type	Групповой тип
+Group VAT	Групповой НДС
+Group VAT Sign	Подпись группового НДС
+(3 symbols)	(3 символа)
+Secondary Group VAT	Доп. групповой НДС
+Secondary Group VAT Sign	Подпись доп. груп. НДС
+$FORMNAME	/entityManagers/Products/.lang/FoorGroups:options
+Normal group	Нормальная группа
+Voucher/Coupon group	Группа ваучеров/купонов
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:columns
+Article	Позиция
+Print	Печать
+Manual	Своя цена
+Number	Номер
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/OptionArticle:fields
+Number	Номер
+Article	Позиция
+Print	Печать
+Manual price	Своя цена
+Show in kitchen screen	Показать на кухонном экране
+Prices	Цены
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:columns
+Price	Цена
+Value	Значение
+Currency	Валюта
+VAT	НДС
+VAT sign	Подпись НДС
+Group VAT	Групповой НДС
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/OptionArticlePrices:fields
+Is active	Активность
+Price	Цена
+Currency	Валюта
+Select currency	Выберите валюту
+Use group VAT	Групповой НДС
+VAT	НДС
+VAT sign	Подпись НДС
+$FORMNAME	/entityManagers/Products/.lang/OptionArticleSpecPrice:columns
+ID	ID
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/OptionArticleSpecPrice:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/Options:
+name	Группы опций
+description	
+$FORMNAME	/entityManagers/Products/.lang/Options:headers
+New option	Новая группа
+Edit option	Редактировать группу: {{name}}
+Copy option	Копировать группу: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/Options:columns
+Name	Название
+Number	Номер
+HQ ID	HQ ID
+Single prep.	Разовая подготовка
+Type	Тип
+$FORMNAME	/entityManagers/Products/.lang/Options:sections
+General	Основные
+Articles	Позиции
+$FORMNAME	/entityManagers/Products/.lang/Options:fields
+Name	Название
+Number	Номер
+Single preparation	Разовая подготовка
+HQ ID	HQ ID
+Available	Доступность
+Articles	Позиции
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:columns
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/OptionSalesArea:fields
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/PrepaidArticleGroups:
+name	Позиции с предоплатой
+description	
+$FORMNAME	/entityManagers/Products/.lang/RentalGroups:
+name	Rental groups
+description	
+$FORMNAME	/entityManagers/Products/.lang/RentPeriods:
+name	Rent periods
+description	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:
+name	Группы предложений
+description	
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:headers
+New upseller	Новая группа
+Edit upseller	Редактировать группу: {{name}}
+Copy upseller	Копировать группу: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:columns
+Name	Название
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroups:fields
+Name	Название
+HQ ID	HQ ID
+Articles	Позиции
+Available	Доступность
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:columns
+Number	Номер
+Article	Позиция
+Name	Название
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsArticles:fields
+Number	Номер
+Article	Позиция
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:columns
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/UpsellerGroupsSalesArea:fields
+Sales Area	Зона продаж
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:
+name	Основания отмены
+description	
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:headers
+New void reason	Новое основание
+Edit void reason	Редактировать основание: {{name}}
+Copy void reason	Копировать основание: {{name}}
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:columns
+Name	Название
+Number	Номер
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:sections
+General	Основные
+$FORMNAME	/entityManagers/Products/.lang/VoidReasons:fields
+Name	Название
+Number	Номер
+Don't return items on stock	Не возвращайте товары на склад
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:
+name	Группы пользователей
+description	
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:headers
+New user groups	Новая группа
+Edit user groups	Редактировать группу: {{name}}
+Copy user groups	Копировать группу: {{name}}
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:columns
+ID	ID
+Name	Название
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:sections
+General	Основные
+$FORMNAME	/entityManagers/Users/.lang/UserGroups:fields
+Name	Название
+Description	Описание
+$FORMNAME	/entityManagers/Users/.lang/Users:
+name	Пользователи
+description	
+$FORMNAME	/entityManagers/Users/.lang/Users:headers
+New user	Новый пользователь
+Edit user	Редактировать пользователя
+Copy user	Копировать пользователя
+$FORMNAME	/entityManagers/Users/.lang/Users:columns
+Name	Название
+User group	Группа пользователей
+Email	E-mail
+First name	Имя
+Last name	Фамилия
+Birthdate	Дата рождения
+Start week time	Время начала недели
+$FORMNAME	/entityManagers/Users/.lang/Users:sections
+General	Основные
+Identification	Идентификация
+Personal	Личные
+Positions/Reports	Поцизии/Отчеты
+Order	Порядок
+Close	Закрытие
+Tables	Столики
+Beverage Control	Контроль напитков
+$FORMNAME	/entityManagers/Users/.lang/Users:fields
+Number	Номер
+Username	Имя пользователя
+HQ ID	HQ ID
+First name	Имя
+Last name	Фамилия
+User group	Группа
+Hand	Рука
+Language	Язык
+Log in action	Действие авторизации
+Void	Отмена
+Number of voids	Кол-о отмен
+Unlimited voids	Неограниченные отмены
+Transfer	Трансфер
+Clock In	Начало работы
+Cash declaration	Cash declaration
+Exclude from message list	Исключить из списка сообщений
+Block time break	Блокировать перерыв
+Tables	Столики
+Tagreader code	Код для считывателя этикеток
+Operator ID	ID оператора
+BO password	Пароль от BO
+POS password	Пароль от POS
+User separate POS password for remote terminal	Отдельный пароль пользователя POS для удаленного терминала
+Password for RT	Пароль от RT
+TP-API password	Пароль от TP-API
+Address	Адрес
+Country	Страна
+Phone	Телефон
+Email	E-mail
+Date of birth	Дата рождения
+Start week time	Время начала недели
+Insurance	Стразовка
+Include table areas	Включать зоны столиков
+Don't allow clock out if there are opened tables	Не позволять уход, если есть открытые столы
+Don't allow print waiter report if there are opened tables	Не позволять печатать отчет официанта, если есть открытые столы
+Don't show waiter in waiter orders dataset	Не показывать официанта в наборе данных заказов официантов
+Taker away role	Выносная роль
+Direct sales table number	Номер столика прямых продаж
+$FORMNAME	/entityManagers/Users/.lang/Users:options
+Right	Правша
+Left	Левша
+All	Все
+Own	Свои
+Regular user	Обычный пользователь
+Delivery user	Пользователь доставки
+none	нет
+Show General Manager	Show General Manager
+Take away bookings	Take away bookings

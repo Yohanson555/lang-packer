@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Sequence": "Sequence",
+        "Sales Area": "Sales Area",
+        "Is active": "Is active"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Is active": "Is active",
+        "Sequence": "Sequence",
+        "Sales Area": "Sales Area"
+    }
+}

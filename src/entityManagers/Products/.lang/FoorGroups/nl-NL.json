@@ -1,0 +1,39 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New food group": "",
+        "Edit food group": "",
+        "Copy food group": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": "",
+        "Number": "",
+        "HQ ID": "",
+        "Category": "",
+        "VAT": "",
+        "Secondary VAT": "",
+        "Type": ""
+    },
+    "sections": {
+        "General": "",
+        "VATs": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Number": "",
+        "Category": "",
+        "Group type": "",
+        "Group VAT": "",
+        "Group VAT Sign": "",
+        "(3 symbols)": "",
+        "Secondary Group VAT": "",
+        "Secondary Group VAT Sign": ""
+    },
+    "options": {
+        "Normal group": "",
+        "Voucher/Coupon group": ""
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "headers": {
+        "New exception": "",
+        "Edit exception": "",
+        "Copy exception": ""
+    },
+    "columns": {
+        "Period": "",
+        "Price": "",
+        "Active": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Is active": "",
+        "Period": "",
+        "Price levels": ""
+    }
+}

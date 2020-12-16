@@ -1,0 +1,31 @@
+{
+    "name": "lang-packer",
+    "version": "1.0.0",
+    "description": "Lang files packer/unpacker",
+    "main": "./lib/index.js",
+    "bin": {
+        "packlng": "./bin/pack.js",
+        "unpacklng": "./bin/unpack.js"
+    },
+    "scripts": {
+        "test": "jest test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yohanson555/lang-packer.git"
+    },
+    "author": "Yohanson555",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Yohanson555/lang-packer/issues"
+    },
+    "homepage": "https://github.com/Yohanson555/lang-packer#readme",
+    "dependencies": {
+        "commander": "^6.2.1",
+        "langcode-info": "^1.0.4",
+        "lodash": "^4.17.20"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}

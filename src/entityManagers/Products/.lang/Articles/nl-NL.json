@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "menu_articles_name": "",
+    "promo_articles_name": "",
+    "description": "",
+    "menu_articles_description": "",
+    "promo_articles_descr": "",
+    "headers": {
+        "New article": "",
+        "Edit article": "",
+        "Copy article": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": "",
+        "HQ ID": "",
+        "Sales Areas": ""
+    },
+    "sections": {
+        "General": "",
+        "Pricing": "",
+        "Options": "",
+        "Menu groups": "",
+        "Routing": "",
+        "Appearance": "",
+        "Control": "",
+        "Daily Stock": "",
+        "Bonus Properties": "",
+        "Rent": "",
+        "Rent Periods": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Number": "",
+        "Purchase price Ex VAT": "",
+        "Manual article": "",
+        "Main price": "",
+        "Prices": "",
+        "Upsellers": "",
+        "Free option": "",
+        "Must have options": "",
+        "Department": "",
+        "Course": "",
+        "Sales Area": "",
+        "Text": "",
+        "Font": "",
+        "Font color": "",
+        "Background color": "",
+        "Appearance": "",
+        "Hash": "",
+        "Weight required": "",
+        "Internal name": ""
+    },
+    "options": {
+        "Sale": "",
+        "Purchase": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New void reason": "",
+        "Edit void reason": "",
+        "Copy void reason": ""
+    },
+    "columns": {
+        "Name": "",
+        "Number": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "Number": "",
+        "Don't return items on stock": ""
+    }
+}

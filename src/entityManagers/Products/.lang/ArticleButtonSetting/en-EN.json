@@ -1,0 +1,17 @@
+{
+    "columns": {
+        "ID": "ID",
+        "Screen type": "Screen type",
+        "Screen group": "Screen group",
+        "BG color": "BG color",
+        "Text color": "Text color"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Screen group": "Screen group",
+        "Color": "Color",
+        "Font color": "Font color"
+    }
+}

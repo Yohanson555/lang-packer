@@ -1,0 +1,29 @@
+{
+    "name": "Options",
+    "description": "",
+    "headers": {
+        "New option": "New option",
+        "Edit option": "Edit option: {{name}}",
+        "Copy option": "Copy option: {{name}}"
+    },
+    "columns": {
+        "Name": "Name",
+        "Number": "Number",
+        "HQ ID": "HQ ID",
+        "Single prep.": "Single prep.",
+        "Type": "Type"
+    },
+    "sections": {
+        "General": "General",
+        "Articles": "Articles",
+        "": ""
+    },
+    "fields": {
+        "Name": "Name",
+        "Number": "Number",
+        "Single preparation": "Single preparation",
+        "HQ ID": "HQ ID",
+        "Available": "Available",
+        "Articles": "Articles"
+    }
+}

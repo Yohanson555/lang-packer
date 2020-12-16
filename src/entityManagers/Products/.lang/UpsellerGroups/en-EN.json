@@ -1,0 +1,21 @@
+{
+    "name": "Upseller groups",
+    "description": "",
+    "headers": {
+        "New upseller": "New upseller",
+        "Edit upseller": "Edit upseller: {{name}}",
+        "Copy upseller": "Copy upseller: {{name}}"
+    },
+    "columns": {
+        "Name": "Name"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Name": "Name",
+        "HQ ID": "HQ ID",
+        "Articles": "Articles",
+        "Available": "Available"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "columns": {
+        "ID": "ID",
+        "Screen type": "Тип экрана",
+        "Screen group": "Группа экранов",
+        "BG color": "Цвет фона",
+        "Text color": "Цвет текста"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Screen group": "Группа экранов",
+        "Color": "Цвет",
+        "Font color": "Цвет текста"
+    }
+}

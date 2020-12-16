@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New printer": "",
+        "Edit printer": "",
+        "Copy printer": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "GUID": "",
+        "Error flag": ""
+    }
+}

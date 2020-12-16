@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New upseller": "",
+        "Edit upseller": "",
+        "Copy upseller": ""
+    },
+    "columns": {
+        "Name": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Articles": "",
+        "Available": ""
+    }
+}

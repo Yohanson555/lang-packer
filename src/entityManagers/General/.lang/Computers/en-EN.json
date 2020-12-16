@@ -1,0 +1,20 @@
+{
+    "name": "Devices",
+    "description": "",
+    "headers": {
+        "New computer": "New computer",
+        "Edit computer": "Edit computer: {{name}}",
+        "Copy computer": "Copy computer: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "Name": "Name"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Name": "Name",
+        "UID": "UID"
+    }
+}

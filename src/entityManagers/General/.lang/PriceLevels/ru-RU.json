@@ -1,0 +1,23 @@
+{
+    "name": "Типы цен",
+    "description": "",
+    "headers": {
+        "New price level": "Новый тип",
+        "Edit price level": "Редактировать тип: {{name}}",
+        "Copy price level": "Копировать тип: {{name}}"
+    },
+    "columns": {
+        "Name": "Название",
+        "Number": "Номер",
+        "HQ ID": "HQ ID"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Is active": "Активность",
+        "Name": "Название",
+        "Number": "Номер",
+        "HQ ID": "HQ ID"
+    }
+}

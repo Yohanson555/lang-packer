@@ -1,0 +1,13 @@
+{
+    "columns": {
+        "Period": "Период",
+        "Price": "Цена"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Period": "Период",
+        "Price": "Цена"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "columns": {
+        "Number": "Номер",
+        "Article": "Позиция",
+        "Name": "Название"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Number": "Номер",
+        "Article": "Позиция"
+    }
+}

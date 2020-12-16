@@ -1,0 +1,22 @@
+{
+    "name": "Категории",
+    "description": "",
+    "headers": {
+        "New category": "Новая категория",
+        "Edit category": "Редактировать категорию: {{name}}",
+        "Copy category": "Копировать категорию: {{name}}"
+    },
+    "columns": {
+        "Name": "Название",
+        "Location": "Локация",
+        "ID": "ID",
+        "HQ ID": "HQ ID"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Name": "Название",
+        "HQ ID": "HQ ID"
+    }
+}

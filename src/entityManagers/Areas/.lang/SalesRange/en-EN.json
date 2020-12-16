@@ -1,0 +1,20 @@
+{
+    "headers": {
+        "New sales range": "New sales range",
+        "Edit sales range": "Edit sales range: {{name}}",
+        "Copy sales range": "Copy sales range: {{name}}"
+    },
+    "columns": {
+        "From": "From",
+        "To": "To",
+        "Active": "Active"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Is active": "Is active",
+        "From": "From",
+        "To": "To"
+    }
+}

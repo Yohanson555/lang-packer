@@ -1,0 +1,29 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New option": "",
+        "Edit option": "",
+        "Copy option": ""
+    },
+    "columns": {
+        "Name": "",
+        "Number": "",
+        "HQ ID": "",
+        "Single prep.": "",
+        "Type": ""
+    },
+    "sections": {
+        "General": "",
+        "Articles": "",
+        "": ""
+    },
+    "fields": {
+        "Name": "",
+        "Number": "",
+        "Single preparation": "",
+        "HQ ID": "",
+        "Available": "",
+        "Articles": ""
+    }
+}

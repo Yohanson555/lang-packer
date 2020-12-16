@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New computer": "",
+        "Edit computer": "",
+        "Copy computer": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "UID": ""
+    }
+}

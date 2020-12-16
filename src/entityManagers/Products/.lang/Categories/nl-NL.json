@@ -1,0 +1,22 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New category": "",
+        "Edit category": "",
+        "Copy category": ""
+    },
+    "columns": {
+        "Name": "",
+        "Location": "",
+        "ID": "",
+        "HQ ID": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": ""
+    }
+}

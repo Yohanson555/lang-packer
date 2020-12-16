@@ -1,0 +1,39 @@
+{
+    "name": "Currency",
+    "description": "",
+    "headers": {
+        "New currency": "New currency",
+        "Edit currency": "Edit currency: {{name}}",
+        "Copy currency": "Copy currency: {{name}}"
+    },
+    "columns": {
+        "Name": "Name",
+        "Code": "Code",
+        "HQ ID": "HQ ID",
+        "Eurozone": "Eurozone",
+        "Rate": "Rate"
+    },
+    "sections": {
+        "General": "General",
+        "NotesAndCoins": "NotesAndCoins"
+    },
+    "fields": {
+        "Name": "Name",
+        "HQ ID": "HQ ID",
+        "Charcode": "Charcode",
+        "Digital code": "Digital code",
+        "Round": "Round",
+        "Round up/down to": "Round up/down to",
+        "Eurozone": "Eurozone",
+        "Rate": "Rate",
+        "Rate type": "Rate type",
+        "Symbol": "Symbol",
+        "Symbol alignment": "Symbol alignment"
+    },
+    "options": {
+        "Yes": "Yes",
+        "No": "No",
+        "Before number": "Before number",
+        "After number": "After number"
+    }
+}

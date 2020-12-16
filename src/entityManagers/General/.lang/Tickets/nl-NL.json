@@ -1,0 +1,24 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New tickets": "",
+        "Edit tickets": "",
+        "Copy tickets": ""
+    },
+    "columns": {
+        "Name": ""
+    },
+    "sections": {
+        "General": "",
+        "Layout": ""
+    },
+    "fields": {
+        "Name": "",
+        "Width": "",
+        "Is report": "",
+        "Hide in reports": "",
+        "A4 print": "",
+        "Select ticket layout": ""
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Article": "Позиции раздела",
+        "Sequence": "порядок",
+        "RM-Sequence": "RM-порядок"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Article": "Позиции раздела",
+        "Sequence": "порядок",
+        "RM-Sequence": "RM-порядок"
+    }
+}

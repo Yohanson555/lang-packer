@@ -1,0 +1,20 @@
+{
+    "name": "Устройства",
+    "description": "",
+    "headers": {
+        "New computer": "Новое устройство",
+        "Edit computer": "Редактировать устройство: {{name}}",
+        "Copy computer": "Копировать устройство: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "Name": "Название"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Name": "Название",
+        "UID": "UID"
+    }
+}

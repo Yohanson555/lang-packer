@@ -1,0 +1,43 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New sales area": "",
+        "Edit sales area": "",
+        "Copy sales area": ""
+    },
+    "columns": {
+        "Name": "",
+        "Number": "",
+        "Price": ""
+    },
+    "sections": {
+        "General": "",
+        "Exceptions": "",
+        "Table range": ""
+    },
+    "groups": {
+        "Automatically add Service Charge": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Number": "",
+        "Price": "",
+        "Group VAT level": "",
+        "Bmanual": "",
+        "Close tables manualy": "",
+        "Auto-accept reservations": "",
+        "Open only reserved tables": "",
+        "No service charge": "",
+        "Service charge plan": "",
+        "Standart %": "",
+        "Only when covers more than": "",
+        "Exceptions": "",
+        "Table range": ""
+    },
+    "options": {
+        "Primary": "",
+        "Secondary": ""
+    }
+}

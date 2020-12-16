@@ -1,0 +1,45 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New course": "",
+        "Edit course": "",
+        "Copy course": ""
+    },
+    "columns": {
+        "Name": "",
+        "Number": "",
+        "Changeable": "",
+        "Separate": "",
+        "Print on hold": ""
+    },
+    "sections": {
+        "General": "",
+        "Kitchen Screen": ""
+    },
+    "fields": {
+        "Name": "",
+        "HQ ID": "",
+        "Course number": "",
+        "Changeable": "",
+        "Ask to change course": "",
+        "Separate": "",
+        "Print on hold": "",
+        "Used color": "",
+        "Slow color": "",
+        "Second slow color": "",
+        "Time frame": "",
+        "Auto fire": "",
+        "Start countdown": "",
+        "After": "",
+        "Print when send to Pickup": "",
+        "Pick up ticket": "",
+        "Pick up printer": "",
+        "Print when deliver": ""
+    },
+    "options": {
+        "Order/Next course": "",
+        "Manual": "",
+        "Predefined": ""
+    }
+}

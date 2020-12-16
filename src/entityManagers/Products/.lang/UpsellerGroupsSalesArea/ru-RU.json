@@ -1,0 +1,11 @@
+{
+    "columns": {
+        "Sales Area": "Зона продаж"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Sales Area": "Зона продаж"
+    }
+}

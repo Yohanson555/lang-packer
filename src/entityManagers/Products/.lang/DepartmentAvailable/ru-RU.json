@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Sequence": "Порядок",
+        "Sales Area": "Зона продаж",
+        "Is active": "Активность"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Is active": "Активность",
+        "Sequence": "Порядок",
+        "Sales Area": "Зона продаж"
+    }
+}

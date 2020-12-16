@@ -1,0 +1,20 @@
+{
+    "name": "Группы пользователей",
+    "description": "",
+    "headers": {
+        "New user groups": "Новая группа",
+        "Edit user groups": "Редактировать группу: {{name}}",
+        "Copy user groups": "Копировать группу: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "Name": "Название"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Name": "Название",
+        "Description": "Описание"
+    }
+}

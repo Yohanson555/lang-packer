@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "description": "",
+    "headers": {
+        "New user groups": "",
+        "Edit user groups": "",
+        "Copy user groups": ""
+    },
+    "columns": {
+        "ID": "",
+        "Name": ""
+    },
+    "sections": {
+        "General": ""
+    },
+    "fields": {
+        "Name": "",
+        "Description": ""
+    }
+}

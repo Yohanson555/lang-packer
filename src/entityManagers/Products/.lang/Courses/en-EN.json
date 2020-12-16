@@ -1,0 +1,45 @@
+{
+    "name": "Courses",
+    "description": "",
+    "headers": {
+        "New course": "New course",
+        "Edit course": "Edit course: {{name}}",
+        "Copy course": "Copy course: {{name}}"
+    },
+    "columns": {
+        "Name": "Name",
+        "Number": "Number",
+        "Changeable": "Changeable",
+        "Separate": "Separate",
+        "Print on hold": "Print on hold"
+    },
+    "sections": {
+        "General": "General",
+        "Kitchen Screen": "Kitchen Screen"
+    },
+    "fields": {
+        "Name": "Name",
+        "HQ ID": "HQ ID",
+        "Course number": "Course number",
+        "Changeable": "Changeable",
+        "Ask to change course": "Ask to change course",
+        "Separate": "Separate",
+        "Print on hold": "Print on hold",
+        "Used color": "Used color",
+        "Slow color": "Slow color",
+        "Second slow color": "Second slow color",
+        "Time frame": "Time frame",
+        "Auto fire": "Auto fire",
+        "Start countdown": "Start countdown",
+        "After": "After",
+        "Print when send to Pickup": "Print when send to Pickup",
+        "Pick up ticket": "Pick up ticket",
+        "Pick up printer": "Pick up printer",
+        "Print when deliver": "Print when deliver"
+    },
+    "options": {
+        "Order/Next course": "Order/Next course",
+        "Manual": "Manual",
+        "Predefined": "Predefined"
+    }
+}

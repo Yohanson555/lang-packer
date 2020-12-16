@@ -1,0 +1,15 @@
+{
+    "columns": {
+        "Sequence": "Порядок",
+        "Sales Area": "Зона продаж"
+    },
+    "sections": {
+        "General": "Основные"
+    },
+    "fields": {
+        "Sequence": "Порядок",
+        "Sales Area": "Зона продаж",
+        "Limited": "Ограничен",
+        "Period": "Период"
+    }
+}

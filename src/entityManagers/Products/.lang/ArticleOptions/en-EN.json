@@ -1,0 +1,18 @@
+{
+    "columns": {
+        "Number": "Number",
+        "Option": "Option",
+        "Compose": "Compose",
+        "Max quantity": "Max. quantity"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Number": "Number",
+        "Max quantity": "Max quantity",
+        "Compose": "Compose",
+        "Option": "Option",
+        "Course": "Course"
+    }
+}

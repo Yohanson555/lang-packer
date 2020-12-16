@@ -1,0 +1,9 @@
+{
+    "columns": {
+        "ID": "ID",
+        "Sales Area": "Зона продаж"
+    },
+    "sections": {
+        "General": "Основные"
+    }
+}

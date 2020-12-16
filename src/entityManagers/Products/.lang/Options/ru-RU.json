@@ -1,0 +1,28 @@
+{
+    "name": "Группы опций",
+    "description": "",
+    "headers": {
+        "New option": "Новая группа",
+        "Edit option": "Редактировать группу: {{name}}",
+        "Copy option": "Копировать группу: {{name}}"
+    },
+    "columns": {
+        "Name": "Название",
+        "Number": "Номер",
+        "HQ ID": "HQ ID",
+        "Single prep.": "Разовая подготовка",
+        "Type": "Тип"
+    },
+    "sections": {
+        "General": "Основные",
+        "Articles": "Позиции"
+    },
+    "fields": {
+        "Name": "Название",
+        "Number": "Номер",
+        "Single preparation": "Разовая подготовка",
+        "HQ ID": "HQ ID",
+        "Available": "Доступность",
+        "Articles": "Позиции"
+    }
+}

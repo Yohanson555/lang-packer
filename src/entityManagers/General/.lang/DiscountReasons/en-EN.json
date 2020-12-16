@@ -1,0 +1,20 @@
+{
+    "name": "Discount reasons",
+    "description": "",
+    "headers": {
+        "New discount reason": "New discount reason",
+        "Edit discount reason": "Edit discount reason: {{name}}",
+        "Copy discount reason": "Copy discount reason: {{name}}"
+    },
+    "columns": {
+        "Name": "Name",
+        "Number": "Number"
+    },
+    "sections": {
+        "General": "General"
+    },
+    "fields": {
+        "Number": "Number",
+        "Name": "Name"
+    }
+}

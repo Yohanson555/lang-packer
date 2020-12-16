@@ -1,0 +1,9 @@
+{
+    "columns": {
+        "ID": "ID",
+        "Sales Area": "Sales Area"
+    },
+    "sections": {
+        "General": "General"
+    }
+}

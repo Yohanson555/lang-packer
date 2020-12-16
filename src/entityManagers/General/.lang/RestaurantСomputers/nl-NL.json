@@ -1,0 +1,36 @@
+{
+    "headers": {
+        "New restaurant computer": "",
+        "Edit restaurant computer": "",
+        "Copy restaurant computer": ""
+    },
+    "columns": {
+        "Sequence": "",
+        "Sales Area": ""
+    },
+    "sections": {
+        "Auto order": "",
+        "Restaurant": "",
+        "Errors": "",
+        "Interfaces": "",
+        "POS": "",
+        "Printing": "",
+        "Rear display": "",
+        "Table info": "",
+        "Tap to order": "",
+        "Users": ""
+    },
+    "fields": {
+        "On certain table": "",
+        "On waiter direct sales table": "",
+        "Sales kind": "",
+        "Start table number": "",
+        "Direct table number": "",
+        "Direct sales area": ""
+    },
+    "options": {
+        "By table and direct": "",
+        "Only by table": "",
+        "Only direct": ""
+    }
+}

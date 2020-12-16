@@ -1,0 +1,53 @@
+{
+    "name": "Discounts",
+    "description": "",
+    "headers": {
+        "New discount": "New discount",
+        "Edit discount": "Edit discount: {{name}}",
+        "Copy discount": "Copy discount: {{name}}"
+    },
+    "columns": {
+        "ID": "ID",
+        "HQ ID": "HQ ID",
+        "Name": "Name",
+        "Discount value": "Discount value"
+    },
+    "sections": {
+        "General": "General",
+        "Appearance": "Appearance",
+        "Constraints": "Constraints",
+        "Reason": "Reason"
+    },
+    "fields": {
+        "Name": "Name",
+        "Order": "Order",
+        "HQ ID": "HQ ID",
+        "Value Type": "Value Type",
+        "Discount value": "Discount value",
+        "Select discount type": "Select discount type",
+        "Discount Type": "Discount Type",
+        "Select exclude period": "Select exclude period",
+        "Font color": "Font color",
+        "Background color": "Background color",
+        "Applied To": "Applied To",
+        "Department": "Department",
+        "Course": "Course",
+        "Food group": "Food group",
+        "Category": "Category",
+        "Discount Reason": "Discount Reason",
+        "Free reason type": "Free reason type",
+        "Free reason text": "Free reason text"
+    },
+    "options": {
+        "Percent": "Percent",
+        "Fixed": "Fixed",
+        "All items": "All items",
+        "Selected items": "Selected items",
+        "Department": "Department",
+        "Course": "Course",
+        "Food group": "Food group",
+        "Category": "Category",
+        "Fix text": "Fix text",
+        "Ask reason": "Ask reason"
+    }
+}
