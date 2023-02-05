@@ -12,3 +12,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Fixed
 
 - fix in `LanUnpacker` json building proccess.
+
+## [1.0.3] - 2020-12-17
+### Updated
+
+- `langcode-info` updated to `1.1.2`
