@@ -33,3 +33,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Updated
 
 - `-s` option added. It allows to skip empty value strings in result files.
+
+## [1.0.6] - 2023-03-07
+
+### Fixed
+
+- `console.log` output removed
