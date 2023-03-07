@@ -1,0 +1,9 @@
+{
+    "view_name": "Areas",
+    "view_description": "Areas view description",
+    "types": {
+        "type_1": "Type 1",
+        "type_2": "Type 2",
+        "type_3": "Type 3"
+    }
+}

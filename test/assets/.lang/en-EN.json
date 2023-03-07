@@ -1,0 +1,15 @@
+{
+    "name": "French",
+    "hex": "040C",
+    "locale": "fr",
+    "code": "fr-FR",
+    "translation": {
+        "common": {
+            "Got it": "Entendu",
+            "Cancel": "Annuler",
+            "Ok": "Ok",
+            "Yes": "Oui",
+            "No": "Non"
+        }
+    }
+}

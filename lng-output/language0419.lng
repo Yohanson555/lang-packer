@@ -1,0 +1,23 @@
+$LANGUAGE	Russian
+$FORMNAME	/applicationViews/.lang/Areas:
+view_name	Зоны
+view_description	Описание раздела зон
+$FORMNAME	/applicationViews/.lang/Areas:types
+type_1	Тип 1
+type_2	
+type_3	Тип 3
+$FORMNAME	/applicationViews/.lang/General:
+view_name	
+view_description	
+$FORMNAME	/applicationViews/.lang/KithchenWorkflows:
+view_name	Кухонные процессы
+view_description	Описание раздела
+$FORMNAME	/applicationViews/.lang/Products:
+view_name	Продукты
+view_description	Описание раздела продуктов
+$FORMNAME	/applicationViews/.lang/Tasks:
+view_name	Tasks overview
+view_description	Tasks overview description
+$FORMNAME	/applicationViews/.lang/Users:
+view_name	Пользователи
+view_description	Описание раздела
