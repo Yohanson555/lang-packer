@@ -27,3 +27,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Updated
 
 - `langcode-info` updated to `1.1.3`
+
+## [1.0.5] - 2023-03-07
+
+### Updated
+
+- `-s` option added. It allows to skip empty value strings in result files.

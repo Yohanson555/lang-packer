@@ -16,6 +16,7 @@ program
     .option('-pr, --prefix <value>', 'output filename prefix', "")
     .option('-po, --postfix <value>', 'output filename postfix', "")
     .option('-e, --extension <value>', 'extension for output filename', ".lng")
+    .option('-s, --skip', 'should skip empty strings', false)
 
 
 program.parse(process.argv);
@@ -40,6 +41,12 @@ if (program.input && program.output) {
         opts.index = true;
     } else {
         opts.index = false;
+    }
+
+    if (program.skip) {
+        opts.skip = true;
+    } else {
+        opts.skip = false;
     }
 
     const packer = new LangUnpacker(program.input, program.output, opts);
