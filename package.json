@@ -1,6 +1,6 @@
 {
   "name": "lang-packer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Lang files packer/unpacker",
   "main": "./lib/index.js",
   "bin": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Yohanson555/lang-packer#readme",
   "dependencies": {
     "commander": "^6.2.1",
-    "langcode-info": "^1.1.3",
+    "langcode-info": "^1.1.4",
     "lodash": "^4.17.20"
   },
   "devDependencies": {

@@ -39,3 +39,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 ### Fixed
 
 - `console.log` output removed
+## [1.0.7] - 2023-08-27
+
+### Fixed
+
+- `langcode-info` updated to 1.1.4
